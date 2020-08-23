@@ -26,19 +26,19 @@ console.log(docs);
 
 Something like this.
 
-```js
+```json
 {
-    foo: { letters: 10 },
-    bar: { letter: true },
-    baz: { number: 10 },
-    qux: { uuid: 24 },
-    quux: { email: 12 },
-    corge: { password: 24},
-    grault: { lorem: 126 },
-    garply: { date: true },
-    waldo: { boolean: 1 },
-    fred: { bloodtype: true },
-    plugh: { name: true }
+  "foo": { "letters": 10 },
+  "bar": { "letter": true },
+  "baz": { "number": 10 },
+  "qux": { "uuid": 24 },
+  "quux": { "email": 12 },
+  "corge": { "password": 24 },
+  "grault": { "lorem": 126 },
+  "garply": { "date": true },
+  "waldo": { "boolean": 1 },
+  "fred": { "bloodtype": true },
+  "plugh": { "name": true }
 }
 ```
 
