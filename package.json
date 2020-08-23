@@ -1,0 +1,27 @@
+{
+  "name": "socuments",
+  "version": "0.0.0",
+  "description": "Generate sample documents (MongoDB)",
+  "main": "b9.js",
+  "scripts": {
+    "test": "echo \"👍\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mster/socuments.git"
+  },
+  "keywords": [
+    "mongodb",
+    "documents",
+    "sample",
+    "generate",
+    "sci-fi",
+    "space"
+  ],
+  "author": "Michael Sterpka <michaelsterpka@gmail.com> (https://github.com/mster)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mster/socuments/issues"
+  },
+  "homepage": "https://github.com/mster/socuments#readme"
+}
